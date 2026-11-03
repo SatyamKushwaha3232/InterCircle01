@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Aanya Rao Portfolio
+=======
+# Satyam Kushwaha Portfolio
+>>>>>>> 34fb368d7d1740c3b06ffc998d7c7586920ad34f
 
 A responsive one-page personal portfolio built with semantic HTML, modern CSS, and a small amount of JavaScript.
 
