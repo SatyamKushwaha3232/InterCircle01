@@ -1,4 +1,4 @@
-# Aanya Rao Portfolio
+# Satyam Kushwaha Portfolio
 
 A responsive one-page personal portfolio built with semantic HTML, modern CSS, and a small amount of JavaScript.
 
